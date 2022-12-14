@@ -33,7 +33,7 @@ function App() {
         { id: 1, text: "washington DC", isTrue: false },
         { id: 2, text: "Nairobi", isTrue: true },
         { id: 3, text: "Dubai", isTrue: false },
-        { id: 4, text: "Nairobi", isTrue: false }
+        { id: 4, text: "texus", isTrue: false }
       ]
     },
 
