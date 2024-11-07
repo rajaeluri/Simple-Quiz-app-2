@@ -68,7 +68,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>React Quiz App</h1>
+      <h1>SAMPLE QUIZ ON PROXIMA SOLUTIONS</h1>
 
       {finalResult ? (
         <div className='final-result'>
