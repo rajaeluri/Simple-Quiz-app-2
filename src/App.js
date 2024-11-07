@@ -8,7 +8,7 @@ function App() {
 
   const questions = [
     {
-      text: "where is Proxima Indian offices Located ?",
+      text: "where are Proxima Indian offices Located ?",
       options: [
         { id: 1, text: "HYDERABAD,BANGALORE,PUNE", isTrue: true },
         { id: 2, text: "HYDERABAD,PUNE,KOLKATA", isTrue: false },
