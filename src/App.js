@@ -8,42 +8,42 @@ function App() {
 
   const questions = [
     {
-      text: "what is capital city of America ?",
+      text: "where is Proxima Indian offices Located ?",
       options: [
-        { id: 1, text: "washington DC", isTrue: true },
-        { id: 2, text: "jaman", isTrue: false },
-        { id: 3, text: "Dubai", isTrue: false },
-        { id: 4, text: "Nairobi", isTrue: false }
+        { id: 1, text: "HYDERABAD,BANGALORE,PUNE", isTrue: true },
+        { id: 2, text: "HYDERABAD,PUNE,KOLKATA", isTrue: false },
+        { id: 3, text: "HYDERABAD,BANGALORE,CHENNAI", isTrue: false },
+        { id: 4, text: "BANGALORE,CHENNAI,PUNE", isTrue: false }
       ]
     },
 
     {
-      text: "what is capital city of Uganda ?",
+      text: "Who is the CEO of Proxima ?",
       options: [
-        { id: 1, text: "Nairobi", isTrue: false },
-        { id: 2, text: "jaman", isTrue: false },
-        { id: 3, text: "Dubai", isTrue: false },
-        { id: 4, text: "Kampala", isTrue: true }
+        { id: 1, text: "Kishore", isTrue: false },
+        { id: 2, text: "Angela", isTrue: false },
+        { id: 3, text: "Sriji", isTrue: false },
+        { id: 4, text: "Sai", isTrue: true }
       ]
     },
 
     {
-      text: "what is capital city of Kenya ?",
+      text: "what is size of Proxima ?",
       options: [
-        { id: 1, text: "washington DC", isTrue: false },
-        { id: 2, text: "Nairobi", isTrue: true },
-        { id: 3, text: "Dubai", isTrue: false },
-        { id: 4, text: "texus", isTrue: false }
+        { id: 1, text: "150-200", isTrue: false },
+        { id: 2, text: "200-300", isTrue: true },
+        { id: 3, text: "50-100", isTrue: false },
+        { id: 4, text: "100-150", isTrue: false }
       ]
     },
 
     {
-      text: "what is capital city of China ?",
+      text: "when is Proxima started ?",
       options: [
-        { id: 1, text: "Beijing", isTrue: true },
-        { id: 2, text: "jamaica", isTrue: false },
-        { id: 3, text: "Dubai", isTrue: false },
-        { id: 4, text: "has no", isTrue: false }
+        { id: 1, text: "2019", isTrue: true },
+        { id: 2, text: "2009", isTrue: false },
+        { id: 3, text: "2000", isTrue: false },
+        { id: 4, text: "2015", isTrue: false }
       ]
     }
   ];
