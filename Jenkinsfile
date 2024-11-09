@@ -3,7 +3,7 @@ pipeline {
     stages { 
         stage('Checkout') { 
             steps { 
-                git 'https://github.com/your-repo/Simple-Quiz-app-2.git' 
+                git 'https://github.com/rajaeluri/Simple-Quiz-app-2.git' 
             } 
         } 
         stage('Build') { 
